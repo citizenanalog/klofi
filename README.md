@@ -34,7 +34,7 @@ Crkbd stands for Corne Keyboard.
 - What I did:
   - Left everything in their original locations & deleted all VIAs and traces.
   - Routed the board as 4 layer. (Tried 2 layer, but I couldn't get USB 2.0 impedance on a 2 layer board).
-  - TRS re-design. (see problems), I didn't swap to a TRRS on account of time. I wouldn't release this as a product without changing this, but it should be fine (just not optimal- and I didn't want to swap too many components).
+  - TRS re-design. Edit: I did make the switch to the TRRS design mentioned above.
   - Ferrite Beads: on USB-C power, and TRRS 5V.  Intended to attenuate on 100MHz (33Ohm).  This alone could be the source of the succeptability (phone needing to be 30cm away).
   -  Added stiching vias everywhere.  To create a strong ground reference (minimal current loop sizes).
   - Dis-connected USB-C recepical from ground. This is admittedly a debated topic, I usually like to keep the shield isolated from signal ground to avoid common mode currents on the shield.  In general, the USB host should have the shield ground attached (and this is a device).
