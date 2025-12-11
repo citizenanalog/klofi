@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kicad-lib")(type "KiCad")(uri "/home/matt/Documents/kicad-lib")(options "")(descr ""))
+  (lib (name "USB4105_GF_A")(type "KiCad")(uri "/home/matt/Downloads/USB4105_GF_A")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/home/matt/klofi/pcbs/common/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+)
