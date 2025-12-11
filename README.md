@@ -10,4 +10,9 @@ and 3 thumb keys.
 
 ## USBC interconnect
 - Eliminates the TRS/TRRS connection in favor of USBC.
+- <img width="1003" height="1001" alt="b2b_usbc" src="https://github.com/user-attachments/assets/277ac5a7-955b-4082-ab3d-d73bf082d703" />
 
+
+## Update
+- MX version is currently being tested, 3x6 only.
+- choc versions (3x5 and 3x6 layouts) are routed but not yet produced.
