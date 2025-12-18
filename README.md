@@ -1,9 +1,10 @@
 # ᚴᛚᚢᚠᛁ keyboard
 
-The ᚴᛚᚢᚠᛁ (Corne v4 variant) keyboard is a split keyboard with 3x6 column staggered keys
+The ᚴᛚᚢᚠᛁ (Corne v4 variant) keyboard is a split keyboard with 3x5 or 3x6 column staggered keys
 and 3 thumb keys.
 
-![v4](https://github.com/foostan/crkbd/assets/736191/bc32e4e8-f737-4516-b92b-55a7cb93a336)
+![IMG_7913](https://github.com/user-attachments/assets/ac4806b9-12a8-4d48-b4d4-428164588e6b)
+
 
 ## EMI FIX (by colinski8189)
 - TL;DR: Now a 4 layer board with more components, to mitigate EMI issues (USB and TRS had major issues specifically called out, these have been addressed).
